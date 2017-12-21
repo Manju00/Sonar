@@ -1,0 +1,2 @@
+# Sonar
+sonar build
